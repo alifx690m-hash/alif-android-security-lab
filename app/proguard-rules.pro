@@ -1,0 +1,1 @@
+# ALIF Android Security Lab - release rules\n# Minification is disabled by default.\n
